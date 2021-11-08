@@ -1,7 +1,7 @@
 # AlexNet; the Architecture that challenged CNNs
 
 <div align='center'>
-<img src='https://' width='500' height='500' />
+<img src='https://github.com/AngKS/School_Notebook/blob/master/ST1504_Deep_Learning/assets/brain.jpeg?raw=true' width='400' height='300' />
 </div>
 
 
@@ -12,9 +12,19 @@ Convolutional Neural Networks(CNNs) have always been the goto model for object r
 However, they are extremely difficult to apply to high resolution images.
 
 ## Architecture of AlexNet
+![Model Architecture](https://github.com/AngKS/School_Notebook/blob/master/ST1504_Deep_Learning/assets/architecture.png?raw=true)
+
 The architecture consists of 8 layers; 5 convolutional layers, 2 fully-connected layers and a softmax layer.
 This alone does not make AlexNet anything special... that is until we add in some features and new approaches to the convolutional layers:
 
-**- ReLU non-Linearity**
+- **ReLU non-Linearity**
 
-AlexNet uses Rectififed Linear Units(ReLU) instead of the tanh non-linearity that is used which was standard at that time. ReLU's advantage lies in its training time,
+AlexNet uses Rectififed Linear Units(ReLU) instead of the tanh non-linearity that is used which was standard at that time. ReLU's advantage lies in its training time. A CNN using ReLU was able to reach 25% error on CIFAR-10 dataset 6 times faster thana CNN using tanh.
+
+- **Multiple GPUs**
+
+AlexNet allows for multi-GPU training by putting half its neurons on one GPU and the other half on another GPU. Not only does this mean that a bigger model can be trained; the time taken to train the model will also cut down.
+
+- **Overlapping Layers**
+
+CNNs
