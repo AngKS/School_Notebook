@@ -16,4 +16,4 @@ I am looking into adding more notes/cheatsheets about stuffs outside of school..
 
 ** There are currently still alot of content with work in progress... so refer at your own risks :>
 
-** Side note... i'm thinking of merging my Back End Web Development workshjop materials into this repository.
+** Side note... i'm thinking of merging my [Back End Web Development workshop](https://github.com/AngKS/BED-Workshop) materials into this repository.
