@@ -1,4 +1,5 @@
-# AlexNet; the Architecture that challenged CNNs
+# AlexNet: The Architecture that challenged CNNs
+Reference from - [Alexnet](https://towardsdatascience.com/alexnet-the-architecture-that-challenged-cnns-e406d5297951?gi=12e8866f412d)
 
 <div align='center'>
 <img src='https://github.com/AngKS/School_Notebook/blob/master/ST1504_Deep_Learning/assets/brain.jpeg?raw=true' width='400' height='300' />
@@ -39,3 +40,4 @@ The model uses label-preserving transformation to make the data more varied. Spe
 
 2. **Dropout**
 
+CNNs traditionally "pools" output of neighbouring group of neurons with no overlapping. However, when overlap was introduced, a reduction in error by about 0.5% was observed. It was also found that models with overlapping pools generally find it harder to overfit. 
