@@ -27,4 +27,15 @@ AlexNet allows for multi-GPU training by putting half its neurons on one GPU and
 
 - **Overlapping Layers**
 
-CNNs
+CNNs traditionally "pool" outputs of neighboring groups of neurons with no overlapping. However, when overlap was introduced, the model saw a reduction in error by about 0.5% and models with oveerlapping pooling generally find it harder to overfit.
+
+### The Overfitting Problem
+
+AlexNet had 60 million of parameters, a major issue in terms of **Overfitting**. 2 methods were employed to combat this problem:
+
+1. **Data Augmentation**
+
+The model uses label-preserving transformation to make the data more varied. Specifically, the makers generated image translatiopns and horizontal reflections that increasd the trianing set by a factor of 2048. They also performed Principal Component Analysis(PCA) on the RGB pixel values to change the intensities of the RGB channels which reduced the top-1 error rate by more than 1%.
+
+2. **Dropout**
+
