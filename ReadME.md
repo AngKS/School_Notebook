@@ -5,7 +5,7 @@ Hi, This is th place where i try my very best to consolidate and sort out the ma
 I am looking into adding more notes/cheatsheets about stuffs outside of school... but for now its all school notes, so enjoy!
 
 |Topic | Description |
-| --- | --- |
+|:--- |:--- |
 |[CheatSheets](https://github.com/AngKS/School_Notebook/tree/master/CheatSheet) | Directory of Markdown shortcuts |
 | [Fundamentals of Programming](https://github.com/AngKS/School_Notebook/tree/master/ST0502_Fundamentals_of_Programming) | Fundamentals of Programming in Javascript |
 | [Programming for Data Analysis](https://github.com/AngKS/School_Notebook/tree/master/ST1510_Programming_for_Data_Analysis) | Basically the same as Fundamentals of Programming... Just PYTHON instead |
