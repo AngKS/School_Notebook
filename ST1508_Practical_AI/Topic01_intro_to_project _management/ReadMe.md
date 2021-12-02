@@ -115,3 +115,45 @@ As a ___(user)___, I need ___(feature)___ so that ___(reason)___.
 Each user stories are often written on cards for each single PBI, appropriately called 'User Story Cards'.
 
 ### Sprint Backlog/ Task Board
+
+>A Sprint Backlog is a list of PBIs that are to be completed during the Sprint.
+
+- Each PBI in the backlog will be further worked out into working tasks.
+- The working tasks will then be placed on a Sprint Task board with 3 columns:
+  1. Not Started
+  2. In Progress
+  3. Completed
+
+### Sprint Planning Meeting
+
+Each Sprint typically starts with a Sprint Meeting (around 1/2 hours) with the Objective to select a series of PBIs from the Product Backlog to be completed during the sprint. The team will then commit to these PBIs and place them on the Sprint Backlog.
+
+The team will break down each PBIs into sub-tasks and place these tasks on a 'Sprint Task Board'
+
+### Daily SCRUM Meeting
+- Teams conduct Daily Scrum Meetings(aka Stand-Up meeting) every morning to discuss on their individual progress (+/- 15 minutes)
+- SCRUM master will request each member to quickly report on 3 questions:
+  1. What did I do yesteday?
+  2. What will I do today?
+  3. What impedes me?
+
+### Sprint Review Meeting
+>Demonstrates the work done during the Sprint 
+- The Sprint Review meeting is conducted at the end of each Sprint (+/- 2 to 3 hours)
+- The team will come together as to demonstrate to stake holders & clients the latest 'shippable product'.
+- Objective of this meeting it to gather feedbacks and to provide stakeholders & clients an opportunity to actually try out the system.
+
+### Sprint Retrospective Meeting
+>Summarize what went well and what can be improved with regards to running the sprints
+- The Sprint Retrospective meeting is also conducted at the end of each Sprint (+/- 1 to 1.5 hours)
+- The team will come together to discuss how well did they apply the Scrum processes during this Sprint.
+- Objective of this meeting is summarize what went well and what can be improved with refards to running the Sprints. An action plan for enhancement will be spelled out.
+
+### Backlog Refinement Meeting
+- Backlog Refinement meetings are conducted on demand (only when needed), and initiated by the Product Owner.
+- Meeting is meant to have relook at all the PBIs in the product backlog.
+- Specifically it aims to clarify on vague PBIs, remove redundant PBIs, add new PBIs or even break down larger PBIs in smaller ones.
+
+
+
+
