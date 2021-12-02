@@ -78,6 +78,15 @@ Projects are activities that are:
 - Each Sprint starts with a Sprint Planning meeting. The team then tracks their progress through daily meetings, called Daily Scrums.
 - At the end of each Sprint, the team holds 2 meetings. Firstly, a **Sprint Review** meeting(To Demonstrate the work done). Secondly, a **Sprint Retrospective** meeting(to discuss on how to improve on how the team carries out the SCRUM processes).
 
+### SCRUM Team
+| Role | Description |
+|:--- | :--- |
+| Product Owner | - Responsible for Product Vision and Return of Investment (ROI)<br>- Has final Decision on what are the features to be developed<br>- Focusses more on 'what needs to be done' than 'how things need to be done' |
+| SCRUM Development Team | - Multi-Disciplinary, and Self-Organizing Group<br>- Main focus is to produce incremental "Potential Shippable" products at every Sprint<br>- Works closely together in tight-nit groups on daily basis |
+| SCRUM Master | - Facilitates the daily scrum operations<br>- Liaises between the stakeholders and the SCRUM team<br>- Shields the development team form distractions |
+
+
+
 ### Waterfall vs Agile
 
 | Waterfall Approach | Agile methadology |
