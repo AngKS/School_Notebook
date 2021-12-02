@@ -36,7 +36,7 @@ Projects are activities that are:
 
 ### Waterfall Project Management
 
-![waterfall development](https://github.com/AngKS/School_Notebook/blob/master/ST1508_Practical_AI/Topic01_intro_to_project%20_management/assets/waterfall.png)
+<img align='center' src="https://github.com/AngKS/School_Notebook/blob/master/ST1508_Practical_AI/Topic01_intro_to_project%20_management/assets/waterfall.png" />
 
 
 - The traditional way of carrying out projects is done in a sequential series of phases:
@@ -50,3 +50,11 @@ Projects are activities that are:
 - Each phase must be fully completed before we start the next phase.
 - Depends on requirements determined early on in the project
 - Scope, Time and Costs are estimated at the beginning for the entire project.
+
+#### Challenges of Waterfall Project Management
+
+- The Product is only Validated at the end of the project
+- Not flexible for changes in user requirements that may occur later in the project.
+- Over reliance on documentation
+
+### SCRUM(AGILE) Project Management
