@@ -95,3 +95,23 @@ Projects are activities that are:
 | Changes are not encouraged and are formally controlled | Changes are expected and embraces |
 | Quality achieved through careful planning at beginning of the project | Quality achieved through incremental improvements |
 
+### Product Backlog
+
+A product backlog is a 'wish list' of prioritised requirements that a Scrum team set themselves to implement.
+
+- Items on the product backlog are referred to as PBIs (Product Backlog Items)
+- The PBIs are written in the form of User Stories and are meant to capture the various users requirements.
+- The Product Owner owns the Product backlog and will work together with the Scrum team to update the Product backlog regularly.
+
+### Users Stories
+
+>User Stories are helpful to capture the 3 essentials of any user requirementm, namely: the **WHO**, **WHAT** and **WHY**.
+
+User Stories are written in this format:
+```
+As a ___(user)___, I need ___(feature)___ so that ___(reason)___.
+```
+
+Each user stories are often written on cards for each single PBI, appropriately called 'User Story Cards'.
+
+### Sprint Backlog/ Task Board
