@@ -32,3 +32,24 @@ Projects are activities that are:
 
 ### AI/Data Science Project Cycle
 
+![Data Science Project Cycle](https://github.com/AngKS/School_Notebook/blob/master/ST1508_Practical_AI/Topic01_intro_to_project%20_management/assets/projectCycle.png)
+
+### Waterfall Project Management
+<div class='row'>
+    <div class='col-md-6'>
+        - The traditional way of carrying out projects is done in a sequential series of phases:
+            1. Requirement Analysis
+            2. Design
+            3. Code
+            4. Integration
+            5. Testing
+            6. Deployment
+        - The process flows exclusively in 1 direction > DOWNWARDS, hence like a waterfall
+        - Each phase must be fully completed before we start the next phase.
+        - Depends on requirements determined early on in the project
+        - Scope, Time and Costs are estimated at the beginning for the entire project.
+    </div>
+    <div class='col-md-6'>
+        <img src="https://github.com/AngKS/School_Notebook/blob/master/ST1508_Practical_AI/Topic01_intro_to_project%20_management/assets/waterfall.png" alt="waterfall" />
+    </div>
+</div>
