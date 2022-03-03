@@ -1,7 +1,7 @@
 # AKS's Brain Dump 🧠 🤖
 
 
-Hi, This is th place where i try my very best to consolidate and sort out the mangled hot mess of information in my head.
+Hi, This is the place where i try my very best to consolidate and sort out the mangled hot mess of information in my head.
 
 I am looking into adding more notes/cheatsheets about stuffs outside of school... but for now its all school notes, so enjoy!
 
